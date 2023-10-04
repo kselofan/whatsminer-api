@@ -1,10 +1,10 @@
 {
   "urls": [
-    ["mlx90640/__init__.py", "github:jimmo/micropython-mlx90640/mlx90640/__init__.py"],
-    ["mlx90640/utils.py", "github:jimmo/micropython-mlx90640/mlx90640/utils.py"]
+    ["whatsminer/__init__.py", "github:kselofan/whatsminer-api/whatsminer/__init__.py"],
+    ["whatsminer/api.py", "github:kselofan/whatsminer-api/whatsminer/api.py"]
   ],
   "deps": [
     ["collections-defaultdict", "latest"]
   ],
-  "version": "0.1"
+  "version": "1"
 }
